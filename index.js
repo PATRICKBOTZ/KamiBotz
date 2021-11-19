@@ -72,10 +72,10 @@ const _reminder = JSON.parse(fs.readFileSync("./database/reminder.json"));
 
 banChats = true;
 offline = false;
-targetpc = "6281283815593";
-owner = "6282217590187";
-fake = "KamiKaze";
-namabot = "KAMIBOT";
+targetpc = "6283119807342";
+owner = "6283119807342";
+fake = "®VAN";
+namabot = "PATRICK BOTZz";
 thumb = fs.readFileSync("./stik/thumb.jpeg");
 numbernye = "0";
 waktu = "-";
